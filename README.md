@@ -13,6 +13,8 @@ Node v12.16.3
 
 # Setup
 Clone the repository in your local machine
+1. Open terminal
+2. Run command git clone https://github.com/tonz1326/lightning.git
 
 # How to run
 1. Navigate to project root folder using terminal
