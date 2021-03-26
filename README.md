@@ -1,7 +1,7 @@
 # DTN Exercise
 This is a simple code snippet that check if particular assets has been striked by lightning.
-It will check if assets was striked by lightning with format: lightning alert for assetOwner:assetName
-It will only log asset once
+It will check if assets was striked by lightning with format: "lightning alert for assetOwner:assetName".
+It will only log asset once.
 
 # Filesystem
 * ```assets``` - Hold sample asset json file
